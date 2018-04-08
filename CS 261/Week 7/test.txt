@@ -1,0 +1,3 @@
+4	with space
+4	a space too
+6	space to space to space
